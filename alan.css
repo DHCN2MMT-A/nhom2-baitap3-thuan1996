@@ -1,0 +1,77 @@
+body{
+
+	background: turquoise;
+}
+
+nav {
+	float: right;
+}
+nav ul li {
+	float: left;
+	list-style-type: none;
+}
+h1 {
+    font-size: 40px;
+	color: blue;
+	clear: both;
+	margin-top: 10px;
+	text-align: center;
+}
+
+h2{
+	font-size: 35px;
+	text-align: center;
+	text-decoration: underline;
+	color: blue;
+}
+
+h3{
+
+	text-align: center;
+	color: blue;
+	font-size: 28px;
+	text-decoration: underline;
+}
+img{
+	width:17% ;
+	margin: 0 auto; 
+	display: block; 
+	border-radius: 50%;
+}
+
+p{
+	margin-left: 400px;
+	margin-right:300px;
+}
+
+.interesting{
+	margin-left: 400px;
+	margin-right: 300px;
+}
+.bright{
+	color: red;
+}
+p.bright a.spl-linkb{
+	color: white;
+	background: orangered;
+	text-decoration: none;
+	border: 5px solid orangered;
+	border-radius: 4%;
+}
+p.bright a.spl-linka{
+	color: white;
+	background: gray;
+	text-decoration: none;
+	border: 5px solid gray;
+	border-radius: 4%;
+}
+.interesting ol li{
+	font: 400 30px/0.8 'Great Vibes', Helvetica, sans-serif;
+	color: blue;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+
+}
+#Honours{
+	color: red;
+
+}
